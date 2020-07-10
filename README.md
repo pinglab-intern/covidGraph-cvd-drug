@@ -3,7 +3,7 @@ Covid Graph exploration with CVD and Drug association
 
 **Title**: A study of Covid-19 KG for Drugs and CVD cases
 
-<img src="https://covidgraph.org/img/content-img/data_model_with_logos_and_numbers.png" width="1000" height="500"></img>)
+<img src="https://covidgraph.org/img/content-img/data_model_with_logos_and_numbers.png" width="500" height="250"></img>)
 
 <center> Image Courtesy: covidgraph.org </center>
 
