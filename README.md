@@ -10,9 +10,10 @@
 **Description**: Covid-19 is caused by a coronavirus called SARS-CoV-2. It is believed that this virus has a pivotel interaction with the renin-angiotensin-aldosteron system to enter cells in the body. Accordingly, concerns exist that certain CVD drugs such as angiotensin-converting enzyme blockers (ACE inhibitors) and angiotensin receptor blockers (ARBs) may increase the susceptibility to SARS CoV-2 as well as the severity of Covid-19. In this project, the students will apply a text mining approach to create a Covid-19 KG for ACE inhibitors and ARBs and identify relevant underlying molecular pathways and mechanisms that may play a role in Covid-19.
 
 ### Participants
+- **Alex Zhang**
+- **Ethan Tran**
 - Maya Gupta
-- Alex Zhang
-- Ethan Tran
+
 
 Project Leaders/Instructors: 
 Dr. Dibakar Sigdel & Dr. David Liem (Mr. Vincent Kyi for technical support)
