@@ -3,7 +3,7 @@
 
 **Title**: Covidgraph exploration with Cardiovascular Disease (CVD) and Drug association
 
-<img src="https://covidgraph.org/img/content-img/data_model_with_logos_and_numbers.png" width="700" height="350"></img>)
+<img src="https://covidgraph.org/img/content-img/data_model_with_logos_and_numbers.png" width="700" height="350"></img>
 
                                        Image Courtesy: covidgraph.org 
 
