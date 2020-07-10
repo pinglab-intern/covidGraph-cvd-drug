@@ -17,8 +17,6 @@
 Project Leaders/Instructors: 
 Dr. Dibakar Sigdel & Dr. David Liem (Mr. Vincent Kyi for technical support)
 
-Data Source: (www.covidgraph.org)
-
 
 **Project walk-through**:
 Identification of documents in the intersection with CVD cases, Covid 19 and drug category (defined by MeSH).
@@ -46,5 +44,15 @@ Final presentation at lab meeting.
 - Get introductory idea of Machine Learning from [Scikit](https://scikit-learn.org/stable) Learn and [Tensorflow](https://www.tensorflow.org/) (Specially, LSTM)
 
 ### Project Detail
+- **Step -1**: Prepare required CVD entities (e.g, MeSH Tree (Age), ICD Tree (Age), Proteins, Genes, RNASeq, Drugs)
+- **Step -2**: Explore Covidgraph with CVD cases with CVD entities
+- **Step -3**: Prepare a sypher queries to search over the documents
+- **Step -4**: Create a Graph association Matrix and artifacts
+- **Step -5**: Design Machine Learning models (e.g., Clustering, PCA, tSNE)
+- **Step -6**: Analyse the result
+- **Step -7**: Present the result
+- **Step -8**: Organize the documentation with Mkdocs
 
 
+### References
+1. Data Source: (www.covidgraph.org)
